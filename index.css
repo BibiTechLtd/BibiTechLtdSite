@@ -1,0 +1,17 @@
+#title {
+	color: red;
+	text-align: center;
+}
+
+p {
+	font-family: "Times New Roman", Times, serif;
+	color: white;
+}
+
+a {
+	color: green;
+}
+
+body {
+	background-color: black;
+}
